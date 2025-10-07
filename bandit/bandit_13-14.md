@@ -26,6 +26,11 @@ ssh -i sshkey.private -p 2220 bandit14@localhost
 
 <img width="843" height="626" alt="image" src="https://github.com/user-attachments/assets/c435a49a-edd0-4953-8073-bb876ecfbc33" />
 
-Như vậy là thành công!
+Như vậy là ssh thành công! Bây giờ lấy pass của bandit14 thôi:  
+```bash
+cat /etc/bandit_pass/bandit14
+```
+<img width="457" height="81" alt="image" src="https://github.com/user-attachments/assets/a33d54ee-2fcc-45f0-88a0-d6238b91493e" />
 
->### 🎯 Pass: *** pass chính là cái sshkey.private :D ***
+
+>### 🎯 Pass: ***MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS***
