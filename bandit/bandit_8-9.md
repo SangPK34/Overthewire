@@ -20,7 +20,7 @@ sort data.txt | uniq -u | grep -m1 .
 ```
 Giải thích: `sort data.txt | uniq -u` đã lọc ra các dòng xuất hiện đúng 1 lần, `| grep -m1 .` in dòng không rỗng đầu tiên rồi dừng.  
 
-<img width="486" height="59" alt="image" src="https://github.com/user-attachments/assets/c7356e04-0211-4076-897c-894d7e909d61" />
+<img width="490" height="65" alt="image" src="https://github.com/user-attachments/assets/89d8d46e-6c9a-4ac7-989f-e751e72e79d5" />
 
 Như vậy là thành công.  
 
