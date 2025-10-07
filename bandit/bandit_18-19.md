@@ -40,4 +40,4 @@ ssh bandit18@bandit.labs.overthewire.org -p 2220 'cat readme'
 
 Vậy là xongggg.  
 
->### 🎯 Pass: ******
+>### 🎯 Pass: ***cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8***
