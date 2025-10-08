@@ -21,6 +21,7 @@ grep -i ; cat /etc/natas_webpass/natas9 dictionary.txt
 
 <img width="771" height="297" alt="image" src="https://github.com/user-attachments/assets/666b0ebf-46e9-44aa-bf3c-43df4cf4787d" />
 
-<img width="1686" height="860" alt="image" src="https://github.com/user-attachments/assets/c97488cc-b371-42f7-8680-435eaddb0b20" />
+<img width="1607" height="665" alt="image" src="https://github.com/user-attachments/assets/c1add5ea-62e5-42f3-9843-270de15ef7f6" />
 
->### 🎯 Password: ***ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t***
+
+>### 🎯 Password: ***t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu***
