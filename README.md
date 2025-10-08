@@ -1,4 +1,4 @@
-## 🔥From Phạm Khắc Sang - D23 - Học viện Công nghệ Bưu chính viễn Thông 😘
+## 🔥From Phạm Khắc Sang - D23 - Học viện Công nghệ Bưu chính viễn Thông PTIT
 Repo này để lưu trữ các lời giải của mình về các thử thách của https://overthewire.org/.  
 
 Các bài giải này một phần giúp mình có thể xem lại khi cần luyện tập thêm, một phần cũng để chia sẻ chút kinh nghiệm nhỏ đến các bạn khác.   
