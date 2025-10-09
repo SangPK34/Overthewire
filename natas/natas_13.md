@@ -35,4 +35,6 @@ Nhấn vào file php đó để thực thi:
 
 <img width="865" height="282" alt="image" src="https://github.com/user-attachments/assets/76320284-40d2-4ea4-99db-910e1ac15518" />
 
->### 🎯 Password: ***BMz3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ***
+Pass sẽ là chuỗi đằng sau `BM`.  
+
+>### 🎯 Password: ***z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ***
